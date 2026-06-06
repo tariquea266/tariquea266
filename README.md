@@ -22,7 +22,7 @@
 
 ---
 
-## 🤖 About Me — `AI Style`
+## 🤖 >> Initializing Developer...
 
 ```typescript
 const tarique: Developer = {
